@@ -1,5 +1,7 @@
 # FusedProp
 
+Read the paper [here](https://arxiv.org/abs/2004.03335).
+
 ## Installation
 
 - Clone this repository
